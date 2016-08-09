@@ -1,0 +1,14 @@
+layout_spectrum: 0.5109377473127097
+typography_spectrum: 0.16929528559558094
+color:
+  brandStrength: 0.2771058774087578
+  lightness: 0.152537879999727
+  saturation: 0.1354441773146391
+  rhythmicContrast: 0.9712862554006279
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: NewGrid
