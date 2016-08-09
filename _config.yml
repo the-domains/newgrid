@@ -12,5 +12,9 @@ color:
     - '#CEAFC0'
 layout_spectrum: 0.5109377473127097
 name: NewGrid
+navigation:
+  - name: The Start
+    id: 315ffe63-67e0-4547-bdf8-4ec72cecb38e
+    type: content
 title: Thredbo Top2Bottom
 description: 6th Aug 2016
