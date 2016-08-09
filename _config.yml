@@ -16,5 +16,8 @@ navigation:
   - name: The Start
     id: 315ffe63-67e0-4547-bdf8-4ec72cecb38e
     type: content
+  - name: Cellebrate
+    id: 7bcf2ff0-ea46-480e-9cd0-83e8ef823e5d
+    type: content
 title: Thredbo Top2Bottom
 description: 6th Aug 2016
