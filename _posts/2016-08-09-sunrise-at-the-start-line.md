@@ -1,16 +1,14 @@
 ---
-datePublished: '2016-08-09T11:45:43.996Z'
+datePublished: '2016-08-09T11:46:56.676Z'
 author: []
 via: {}
-dateModified: '2016-08-09T11:15:12.422Z'
+dateModified: '2016-08-09T11:46:55.393Z'
 title: ''
 publisher: {}
 description: Sunrise at the Start Line
-starred: false
 sourcePath: _posts/2016-08-09-sunrise-at-the-start-line.md
-inFeed: true
 hasPage: true
-inNav: false
+starred: false
 url: sunrise-at-the-start-line/index.html
 _context: 'http://schema.org'
 _type: Article
